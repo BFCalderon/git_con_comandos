@@ -1,1 +1,8 @@
 Hola mundo
+
+Texto de inicializacion del mundo Git en comandos,
+aspiro adquirir el conocimiento necesario para poder
+mejora mi control de versiones para todos los proyectos
+de desarrollo de software
+
+cambio 1
