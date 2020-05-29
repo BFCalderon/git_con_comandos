@@ -6,3 +6,5 @@ mejora mi control de versiones para todos los proyectos
 de desarrollo de software
 
 cambio 1
+
+cambio 2 con una linea escrita
