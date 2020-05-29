@@ -1,0 +1,5 @@
+Segundo repositorio
+
+aqui van cambios que se agregan mmientras voy encontrando que
+poner par que pueda haber alguna informacioncilla y
+aprender Git
